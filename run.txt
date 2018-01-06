@@ -1,0 +1,10 @@
+A.python版本:  Python 2.7.13
+ 
+B.程序运行:
+(在运行程序之前请安装程序所需要的库)    #pip install -r requirements.txt
+1.进入My_blog目录下,运行python manage.py runserver
+
+2.在浏览器中输入http://127.0.0.1:8000          #博客主页
+http://127.0.0.1:8000/admin/                   #博客登录
+
+3.账号:chen   密码:4832902gcc
